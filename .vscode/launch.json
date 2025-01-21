@@ -1,0 +1,117 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "LL1ParserGUI",
+        "request": "launch",
+        "mainClass": "LL1.LL1ParserGUI",
+        "projectName": "compiler_project_bc0d6231"
+      },
+      {
+        "type": "java",
+        "name": "RDPGUI",
+        "request": "launch",
+        "mainClass": "rdp.RDPGUI",
+        "projectName": "compiler_project_bc0d6231"
+      },
+      {
+        "type": "java",
+        "name": "RDPGUI",
+        "request": "launch",
+        "mainClass": "RDPGUI",
+        "projectName": "compiler_project_bc0d6231"
+      },
+      {
+        "type": "java",
+        "name": "RecursiveDescentParser",
+        "request": "launch",
+        "mainClass": "RecursiveDescentParser",
+        "projectName": "compiler_project_bc0d6231"
+      },
+      {
+        "type": "java",
+        "name": "LL1ParserGUI",
+        "request": "launch",
+        "mainClass": "LL1ParserGUI",
+        "projectName": "compiler_project_bc0d6231"
+      },
+      {
+        "type": "java",
+        "name": "RDPParser",
+        "request": "launch",
+        "mainClass": "RDPParser",
+        "projectName": "compiler_project_bc0d6231"
+      },
+      {
+        "type": "java",
+        "name": "GrammarAnalyzer",
+        "request": "launch",
+        "mainClass": "GrammarAnalyzer",
+        "projectName": "compiler_project_bc0d6231"
+      },
+      {
+        "type": "java",
+        "name": "Grammar",
+        "request": "launch",
+        "mainClass": "Grammar",
+        "projectName": "compiler_project_bc0d6231"
+      },
+      {
+        "type": "java",
+        "name": "LL1Parser",
+        "request": "launch",
+        "mainClass": "LL1Parser",
+        "projectName": "compiler_project_bc0d6231"
+      },
+      {
+        "type": "java",
+        "name": "LL1ParserCustom",
+        "request": "launch",
+        "mainClass": "LL1ParserCustom",
+        "projectName": "compiler_project_bc0d6231"
+      },
+      {
+        "type": "java",
+        "name": "LL1ParserCorrected",
+        "request": "launch",
+        "mainClass": "LL1ParserCorrected",
+        "projectName": "compiler_project_bc0d6231"
+      },
+      {
+        "type": "java",
+        "name": "LL1ParserFixed",
+        "request": "launch",
+        "mainClass": "LL1ParserFixed",
+        "projectName": "compiler_project_bc0d6231"
+      },
+      {
+        "type": "java",
+        "name": "LL1ParserEnhanced",
+        "request": "launch",
+        "mainClass": "LL1ParserEnhanced",
+        "projectName": "compiler_project_bc0d6231"
+      },
+      {
+        "type": "java",
+        "name": "LL1ParserGeneral",
+        "request": "launch",
+        "mainClass": "LL1ParserGeneral",
+        "projectName": "compiler_project_bc0d6231"
+      },
+      {
+        "type": "java",
+        "name": "Launch Java Program",
+        "request": "launch",
+        "mainClass": ""
+      },
+      {
+        "type": "java",
+        "name": "Launch ParserApp",
+        "request": "launch",
+        "mainClass": "ParserApp",
+        "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+      }
+    ]
+  }
+  
